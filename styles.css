@@ -1,0 +1,126 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 10rem;
+}
+
+.navbar-brand {
+  font-family: "Montserrat-Bold";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+/* Carousel Section */
+
+#carousel {
+  background-color: black;
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  height : 700px;
+}
+
+.intro-box {
+  margin-top : 280px; 
+  padding-left : 20px;
+}
+
+.box-title {
+  margin-bottom : 0;
+}
+
+.box-header {
+  margin-bottom : 0;
+}
+
+.box-header span {
+  color: red;
+}
+
+.box-tagline {
+  margin-bottom: 0;
+}
+
+.box-subtitle {
+  color: grey;
+}
+
+.img {
+  align-items: center;
+  justify-content: center;
+  margin-top : 100px;
+}
+
+.img-one {
+  height : 425px;
+  width : 425px;
+}
+
+.activity-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.text {
+  bottom : 400px;
+  position: absolute;
+  margin-right : 300px;
+  margin-left : 600px
+  
+}
+
+.not-examined {
+  display : none;
+}
+
+#container-open {
+  display: none;
+  width : 50%;
+  margin: auto;
+}
+
+/* .btn {
+  
+  height : 100px;
+  width : 100px;
+  border: 10px solid black;
+  border-radius: 20%;
+} */
+
+.interrogation {
+  display : none;
+  padding-top : 50px;
+  padding-bottom : 100px;
+  background-color: black;
+  color : white;
+  padding-right : 50px;
+}
+
+.answer {
+  text-align: center;
+  justify-content: center;
+  margin-top : 15px;
+  margin-right : 20px;
+}
+
+#reported1 {
+  background-color: black;
+  color:white;
+  padding-left : 150px;
+  height : 200px;
+
+}
